@@ -18,7 +18,7 @@ pip install git+https://github.com/openai/CLIP.git  --no-dependencies
 
 Trained checkpoints for the diffusion models are available at [here]().
 
-## 3. Run demo script to train the NLPD models
+## 3. Run demo script to train the CaMGUI models
 ### 3.1 Balanced CIFAR-10 and CIFAR-100<br />
 Default values for input arguments are given in the code. An example command is given:
 ```
