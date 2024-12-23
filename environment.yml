@@ -1,4 +1,4 @@
-name: NLPD-env
+name: CaMGUI-env
 channels:
   - pytorch
   - defaults
