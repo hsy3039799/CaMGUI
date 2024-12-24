@@ -1,4 +1,4 @@
-# Class-aware Multigranularity Generative Uncertainty and Inconsistency: Co-Diffusion Models for Learning with Noisy labels on Imbalanced Datasets
+# Class-aware Multi-granularity Generative Uncertainty and Inconsistency: Co-Diffusion Models for Learning with Noisy labels on Imbalanced Datasets
 
 ## 1. Preparing python environment
 Install requirements.<br />
